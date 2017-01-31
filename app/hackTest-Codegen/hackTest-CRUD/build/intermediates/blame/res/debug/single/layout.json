@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-CRUD/build/intermediates/res/merged/debug/layout/property_row.xml",
+        "source": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-CRUD/src/main/res/layout/property_row.xml"
+    },
+    {
+        "merged": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-CRUD/build/intermediates/res/merged/debug/layout/show_by_property.xml",
+        "source": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-CRUD/src/main/res/layout/show_by_property.xml"
+    },
+    {
+        "merged": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-CRUD/build/intermediates/res/merged/debug/layout/send_email.xml",
+        "source": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-CRUD/src/main/res/layout/send_email.xml"
+    },
+    {
+        "merged": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-CRUD/build/intermediates/res/merged/debug/layout/select_retrieval_type.xml",
+        "source": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-CRUD/src/main/res/layout/select_retrieval_type.xml"
+    },
+    {
+        "merged": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-CRUD/build/intermediates/res/merged/debug/layout/entity_properties.xml",
+        "source": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-CRUD/src/main/res/layout/entity_properties.xml"
+    },
+    {
+        "merged": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-CRUD/build/intermediates/res/merged/debug/layout/sample_code_template.xml",
+        "source": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-CRUD/src/main/res/layout/sample_code_template.xml"
+    },
+    {
+        "merged": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-CRUD/build/intermediates/res/merged/debug/layout/show_property_template.xml",
+        "source": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-CRUD/src/main/res/layout/show_property_template.xml"
+    },
+    {
+        "merged": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-CRUD/build/intermediates/res/merged/debug/layout/sample_success.xml",
+        "source": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-CRUD/src/main/res/layout/sample_success.xml"
+    },
+    {
+        "merged": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-CRUD/build/intermediates/res/merged/debug/layout/list_item_with_arrow.xml",
+        "source": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-CRUD/src/main/res/layout/list_item_with_arrow.xml"
+    },
+    {
+        "merged": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-CRUD/build/intermediates/res/merged/debug/layout/related_show_property_template.xml",
+        "source": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-CRUD/src/main/res/layout/related_show_property_template.xml"
+    },
+    {
+        "merged": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-CRUD/build/intermediates/res/merged/debug/layout/select_table_operation.xml",
+        "source": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-CRUD/src/main/res/layout/select_table_operation.xml"
+    },
+    {
+        "merged": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-CRUD/build/intermediates/res/merged/debug/layout/select_table.xml",
+        "source": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-CRUD/src/main/res/layout/select_table.xml"
+    }
+]

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">hackTest-CRUD</string>
+    <string name="tables_list_title">Tables</string>
+    <string name="previous_page_symbol"><![CDATA[<<]]></string>
+    <string name="next_page_symbol"><![CDATA[>>]]></string>
+    <string name="list_row_with_arrow_description">list row arrow</string>
+    <string name="table_operations_title_template">%s table operations</string>
+    <string name="create_record_title_template">Create new %s</string>
+    <string name="run_code_button_text">Run Code</string>
+    <string name="send_code_button_text">Send Code by Email</string>
+    <string name="success_title">Success</string>
+    <string name="send_email_title">Send Code by Email</string>
+    <string name="email_address_propmt">Email address:</string>
+    <string name="send_button_text">Send</string>
+    <string name="retrieve_title_template">Retrieve %s objects</string>
+    <string name="default_sample_code_title">Sample Code</string>
+    <string name="delete_title_template">Delete %s</string>
+    <string name="update_title_template">Update %s</string>
+    <string name="success_info_template">The record has been %s.</string>
+    <string name="property_to_show_prompt">Property to show:</string>
+    <string name="find_with_relations_title">Find with Relations</string>
+    <string name="related_property_to_show_prompt">Related property to show:</string>
+    <string name="related_table_name_template">%s:</string>
+    <string name="basic_find_title">Basic Find</string>
+    <string name="property_title">Property</string>
+    <string name="value_title">Value</string>
+</resources>
+                                
