@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-Login/build/intermediates/res/merged/debug/layout/login_success.xml",
+        "source": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-Login/src/main/res/layout/login_success.xml"
+    },
+    {
+        "merged": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-Login/build/intermediates/res/merged/debug/layout/password_recovery_requested.xml",
+        "source": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-Login/src/main/res/layout/password_recovery_requested.xml"
+    },
+    {
+        "merged": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-Login/build/intermediates/res/merged/debug/layout/register.xml",
+        "source": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-Login/src/main/res/layout/register.xml"
+    },
+    {
+        "merged": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-Login/build/intermediates/res/merged/debug/layout/registration_success.xml",
+        "source": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-Login/src/main/res/layout/registration_success.xml"
+    },
+    {
+        "merged": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-Login/build/intermediates/res/merged/debug/layout/restore_password.xml",
+        "source": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-Login/src/main/res/layout/restore_password.xml"
+    },
+    {
+        "merged": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-Login/build/intermediates/res/merged/debug/layout/login.xml",
+        "source": "/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-Login/src/main/res/layout/login.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Tue Jan 31 21:15:09 IST 2017
+base.0=/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-Login/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d4793a9126822e317c9138f72a00dd06028f88a9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-Login/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5b68eb562e166f9e508716584806ce91d08d26d1/classes.dex
+base.1=/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-Login/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5b68eb562e166f9e508716584806ce91d08d26d1
+file.0=/home/akshay681/backendless-codegen/hackTest-Codegen/hackTest-Login/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d4793a9126822e317c9138f72a00dd06028f88a9/classes.dex
