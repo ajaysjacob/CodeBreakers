@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="retrieve_options">
+        <item>Basic Find</item>
+        <item>Find First</item>
+        <item>Find Last</item>
+        <item>Find with Sort</item>
+        <item>Find with Relations</item>
+    </string-array>
+    <string-array name="table_operations">
+        <item>Create</item>
+        <item>Retrieve</item>
+        <item>Update</item>
+        <item>Delete</item>
+    </string-array>
+    <dimen name="dp120">120dp</dimen>
+    <dimen name="dp144">144dp</dimen>
+    <dimen name="dp16">16dp</dimen>
+    <dimen name="dp184">184dp</dimen>
+    <dimen name="dp4">4dp</dimen>
+    <dimen name="dp48">48dp</dimen>
+    <dimen name="text_large">22sp</dimen>
+    <dimen name="text_medium">18sp</dimen>
+    <string name="app_name">hackTest-CRUD</string>
+    <string name="basic_find_title">Basic Find</string>
+    <string name="create_record_title_template">Create new %s</string>
+    <string name="default_sample_code_title">Sample Code</string>
+    <string name="delete_title_template">Delete %s</string>
+    <string name="email_address_propmt">Email address:</string>
+    <string name="find_with_relations_title">Find with Relations</string>
+    <string name="list_row_with_arrow_description">list row arrow</string>
+    <string name="next_page_symbol">>></string>
+    <string name="previous_page_symbol">&lt;&lt;</string>
+    <string name="property_title">Property</string>
+    <string name="property_to_show_prompt">Property to show:</string>
+    <string name="related_property_to_show_prompt">Related property to show:</string>
+    <string name="related_table_name_template">%s:</string>
+    <string name="retrieve_title_template">Retrieve %s objects</string>
+    <string name="run_code_button_text">Run Code</string>
+    <string name="send_button_text">Send</string>
+    <string name="send_code_button_text">Send Code by Email</string>
+    <string name="send_email_title">Send Code by Email</string>
+    <string name="success_info_template">The record has been %s.</string>
+    <string name="success_title">Success</string>
+    <string name="table_operations_title_template">%s table operations</string>
+    <string name="tables_list_title">Tables</string>
+    <string name="update_title_template">Update %s</string>
+    <string name="value_title">Value</string>
+</resources>
